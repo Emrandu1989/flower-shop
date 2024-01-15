@@ -188,3 +188,20 @@ button:hover {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+
+/* footer section styles */
+
+footer{
+    background-color: #111010;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+footer .section-title{
+    text-align: center;
+    color: white;
+}
+footer .section-title p{
+    color: white;
+    padding: 10px;
+}
