@@ -177,3 +177,14 @@ button:hover {
     outline: none;
 
 }
+
+/* instagram section styles */
+
+.section-title {
+    width: 75%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
